@@ -23,7 +23,7 @@ A sleek, modern Discord bot built with `discord.py` that allows users to send an
 
 ## 📸 Preview
 
-> ![updateit](https://github.com/wxwreak/anon-discord-bot/blob/main/anonbot.png)
+> ![anonbot](https://github.com/wxwreak/anon-discord-bot/blob/main/anonbot.png)
 
 ---
 
